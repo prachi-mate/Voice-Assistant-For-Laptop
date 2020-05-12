@@ -4,3 +4,4 @@ Objective: To make a voice assistant for a windows laptop which can entertain, o
  finalassistant.py: python code 
  output.JPG: sample screenshot of output
  VIDEO-2020-04-21-19-11-40.mp4: video demo of the assistant
+ 1.JPG: libraries needed for the code
